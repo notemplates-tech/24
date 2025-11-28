@@ -1,0 +1,8 @@
+{
+  "name": "Feng Shui 24 Mountains Compass",
+  "description": "Прозрачный виджет шаблона 24 гор фэн-шуй с интеграцией карт и AI анализом направлений.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
